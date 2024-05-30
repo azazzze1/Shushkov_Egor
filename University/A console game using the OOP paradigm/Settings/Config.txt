@@ -1,0 +1,15 @@
+Move_Direction_Up=w
+Move_Direction_Left=a
+Move_Direction_Down=s
+Move_Direction_Right=d
+Dig_Direction_Up=i
+Dig_Direction_Left=j
+Dig_Direction_Down=k
+Dig_Direction_Right=l
+Close_Game=Q
+Save_Game=S
+Load_Game=L
+
+
+
+
